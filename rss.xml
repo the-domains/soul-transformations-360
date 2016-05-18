@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Soul Transformations 360]]></title>
         <description><![CDATA[Soul Transformations 360]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soul-transformations-360/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 17:16:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 17:16:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soul-transformations-360/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sevenhugs' Smart Remote]]></title>
+            <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/sevenhugs-smart-remote</link>
+            <guid isPermaLink="false">3c99aaf0-00a2-4ba2-b546-f693393e18be</guid>
+            <pubDate>Wed, 18 May 2016 17:16:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[33 Women Doing Amazing Things in Graphic Design]]></title>
             <description><![CDATA[<article><h1>33 Women Doing Amazing Things in Graphic Design</h1><p>These talented women have unleashed their creativity and skills on the world of graphic design. Paula Scher is an American graphic designer, illustrator, and educator, and the first female Principal at . She started experimenting with typography in the early 1980s and looked to historic design sources such as Russian Constructivism, obscure and little-used typefaces, and her seemingly unlimited imagination.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a84e55d2234e7ad3075d42c0c39e066f0189319.jpg"></article>]]></description>
